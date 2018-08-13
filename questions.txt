@@ -1,0 +1,13 @@
+1. Describe two of the following Python features as you would to a CS Grad learning Python. 
+	a. generators 
+	b. decorators 
+	c. list/dict comprehension, 
+	d. the collections, itertools, or functools module 
+
+a. Generator functions allow you to declare a function that behaves like an iterator, i.e. it can be used in a for loop
+c. List comprehension is basically clubbing the for and append for a list in one statement.
+
+2. What are your favorite and least favorite Python features?
+
+Least favourite is the lack of multi-line comments and the indentation feature.
+I like Python's simplicity.
